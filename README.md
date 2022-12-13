@@ -1,12 +1,1 @@
-# Caravel User Project
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
-
-| :exclamation: Important Note            |
-|-----------------------------------------|
-
-## Please fill in your project documentation in this README.md file 
-
-Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of how to use caravel_user_project
-
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
+In this project, Mealy based non overlapping sequence detector is implemented to detect 1010 based on finite state machine. Sequence Detector allows you to wide range of applications such as vending machine, traffic lights, speech recognition, etc where we can detect when a fixed pattern is seen in a stream of binary bits that are input to it.
